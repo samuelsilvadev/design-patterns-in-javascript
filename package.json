@@ -1,0 +1,27 @@
+{
+	"name": "design-patterns-in-javascript",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/samuelsilvadev/design-patterns-in-javascript.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/samuelsilvadev/design-patterns-in-javascript/issues"
+	},
+	"homepage": "https://github.com/samuelsilvadev/design-patterns-in-javascript#readme",
+	"devDependencies": {
+		"eslint": "^7.10.0",
+		"prettier": "^2.1.2"
+	},
+	"engines": {
+		"node": ">=10.16.3"
+	}
+}
